@@ -1,58 +1,38 @@
-# 👋 Hi, I'm Nguyen Huu Quang
-🚀 AI Engineer | Machine Learning | Computer Vision | LLMs
+# 👋 Nguyen Huu Quang
+🚀 AI Engineer | Computer Vision | LLM Systems  
 
 ---
 
-## 🧠 About Me
-I am an AI Engineer specializing in building scalable machine learning systems and intelligent applications.  
-My main focus is on **Computer Vision, Speech Processing, and LLM-powered systems**.
-
-- 🔍 Strong foundation in Machine Learning & Deep Learning
-- ⚙️ Experienced in building end-to-end AI pipelines (data → training → deployment)
-- 🤖 Interested in real-world AI applications (ASR, RAG, automation systems)
-- 📈 Passionate about optimizing models for performance and scalability
+## 🧠 About
+AI Engineer with production experience at FPT Software.  
+Focused on building **real-world AI systems** with measurable impact.
 
 ---
 
-## 🔗 Connect with Me
-- 🌐 Facebook: https://facebook.com/quangkm.nguyen.04
-- 💼 LinkedIn: https://linkedin.com/in/quang-nguyen-huu
+## 🚀 Projects
+
+### ⚽ Soccer Highlight Generator
+- Automated full pipeline for 90-min match → **10–15 min processing**
+- Reduced manual effort by **~90%**
+- mAP@1: **0.857**
 
 ---
 
-## 🚀 Core Skills
+### 💬 IQMeet (AI Meeting Assistant)
+- Real-time ASR + Agent + RAG system  
+- **50,000+ hours** training data  
+- **WER < 9%**, latency <1s  
+- **600+ users**, 23% conversion  
+link: https://iqmeet.vn/
+---
 
-### 🧠 AI / Machine Learning
-- Deep Learning (CNNs, Transformers)
-- Computer Vision (Detection, Segmentation, OCR)
-- Speech Processing (ASR pipelines, data curation)
-- LLMs & RAG Systems
-- Model Optimization & Fine-tuning (LoRA, QLoRA)
-
-### ⚙️ Backend & Systems
-- Django (API & Web backend)
-- Workflow Automation
-- Data Pipelines & Processing
-
-### 🛠 Tools & Frameworks
-- Python, NumPy, Pandas, SciPy
-- PyTorch, TensorFlow, Keras
-- Scikit-learn
-- OpenCV, SAM (Segmentation)
-- Plotly (Visualization)
-
-
-## 📊 What I Bring
-- Ability to turn research ideas into production systems
-- Experience working with large-scale datasets
-- Strong problem-solving and optimization mindset
-- Fast learner with a focus on practical impact
+## 🧠 Skills
+- **AI/ML:** Deep Learning, Optimization  
+- **CV:** Detection, Segmentation, Video  
+- **LLM:** RAG, Agents (ReAct)  
+- **MLOps:** FastAPI, TensorRT, Docker  
 
 ---
 
-## 🎯 Career Goal
-To become a highly skilled AI Engineer building impactful AI systems that solve real-world problems at scale.
-
----
-## 💡 Quote
-> "Build AI that works in reality, not just in notebooks."
+## 💡 Philosophy
+> AI is software, not magic.
