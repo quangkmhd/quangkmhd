@@ -131,10 +131,14 @@
 ---
 
 ## 🧠 Skills
-- **AI/ML:** Deep Learning, Optimization  
-- **CV:** Detection, Segmentation, Video  
-- **LLM:** RAG, Agents (ReAct)  
-- **MLOps:** FastAPI, TensorRT, Docker  
+
+- **Programming & Frameworks:** Python, FastAPI, PyTorch, Hugging Face Transformers.
+- **Generative AI & LLM Engineering:** LLMs (OpenAI, Gemini, Ollama, Llama.cpp), Fine-tuning (LoRA, QLoRA), Quantization (GGUF, EXL2, AWQ), LLM Evaluation (RAGAS, G-Eval, DeepEval), Prompt Engineering, RAG Pipelines, Agentic AI (Multi-agent workflows, Tool calling).
+- **AI Frameworks & Tools:** LangChain, LlamaIndex, AutoGen, Pydantic, Gradio, Ultralytics, LiteLLM, Vector Databases (Qdrant), Hugging Face Transformers.
+- **Machine Learning & CV:** PyTorch, TensorFlow, Scikit-learn, CNN, RNN, Transformers, Computer Vision (Object Detection, OCR, Video Analysis), NLP (Semantic Search, Text Classification), Recommendation Systems, Anomaly Detection.
+- **MLOps:** Docker, CI/CD (GitHub Actions), Model Serving & Monitoring, Google Analytics.
+- **QA Automation & Testing:** Playwright, Selenium, Cypress, AI-assisted Testing (Test generation, Self-healing scripts), Unit/Integration/Regression Testing.
+- **Language Skills:** TOEIC: 650+
 
 ---
 
