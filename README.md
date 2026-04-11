@@ -70,7 +70,7 @@
 - **Source**: [`soccer-highlight`](https://github.com/quangkmhd/soccer-highlight)
 
 ### 📂 YOLO11 Logo Segmentation 🎯
-- An end-to-end toolkit for training, evaluating, and deploying state-of-the-art brand logo segmentation models. Built for marketing analysts, broadcast monitors, and computer vision researchers who need pixel-perfect logo identification. Detect and segment brand logos in real-time at 60 FPS with 99.4% mAP using the power of YOLO11.
+- An end-to-end toolkit for training, evaluating, and deploying state-of-the-art brand logo segmentation models. Built for marketing analysts, broadcast monitors, and computer vision researchers who need pixel-perfect logo identification. Detect and segment brand logos in real-time at 60 FPS with 94.4% mAP using the power of YOLO11.
 - **Tech Stack & Skills**: `Computer Vision, Docker, Gradio, Hugging Face, OpenCV, PyTorch, Python, YOLO, YOLO11`
 - **Source**: [`yolo11-seg-logo`](https://github.com/quangkmhd/yolo11-seg-logo)
 
