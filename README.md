@@ -46,11 +46,6 @@
 - **Tech Stack & Skills**: `Celery, Docker, FastAPI, JavaScript, LLM, PostgreSQL, Python, Redis, Supabase`
 - **Source**: [`edulight`](https://github.com/quangkmhd/edulight)
 
-### 📂 Amazon Transcribe Live Meeting Assistant
-- Transform your virtual meetings with real-time transcription and AI-powered insights using Amazon Transcribe. Designed for remote teams, enterprise professionals, and educators who need flawless meeting documentation, it reduces meeting wrap-up time by up to 80% through instant summaries and action items.
-- **Tech Stack & Skills**: `AWS, JavaScript, LLM, Python, Supabase`
-- **Source**: [`amazon-transcribe-live-meeting-assistant`](https://github.com/quangkmhd/amazon-transcribe-live-meeting-assistant)
-
 ---
 
 ### 🎙️ ASR & TTS
