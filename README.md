@@ -41,11 +41,6 @@
 
 ### ⚙️ Systems
 
-### 📂 Video Search & Summarization Engine 🎬🔍
-- A powerful, enterprise-grade engine designed to unlock the data hidden within video archives. Built for media companies, security teams, and researchers who need to query massive video datasets instantly. Index and summarize 10,000 hours of video content with sub-second semantic search capabilities.
-- **Tech Stack & Skills**: `Computer Vision, Docker, Python, Qdrant`
-- **Source**: [`video-search-and-summarization`](https://github.com/quangkmhd/video-search-and-summarization)
-
 ### 📂 Edulight - AI-Powered Education Platform
 - Deliver personalized learning experiences at scale with a robust, AI-driven educational backend. Engineered for EdTech startups, universities, and online academies, Edulight seamlessly handles thousands of concurrent students while processing heavy AI generation tasks in the background, boasting a 99.9% uptime architecture.
 - **Tech Stack & Skills**: `Celery, Docker, FastAPI, JavaScript, LLM, PostgreSQL, Python, Redis, Supabase`
