@@ -69,11 +69,6 @@
 - **Tech Stack & Skills**: `Accelerate, Docker, FFmpeg, FastAPI, Gradio, OpenCV, PyTorch, Python`
 - **Source**: [`soccer-highlight`](https://github.com/quangkmhd/soccer-highlight)
 
-### 📂 Segment Anything 2 Real-Time 🎥
-- Run the powerful Segment Anything Model 2 (SAM 2.1) on live video streams at 30+ FPS. Built for computer vision engineers and roboticists who need zero-shot, highly accurate segmentation in real-time production environments.
-- **Tech Stack & Skills**: `Computer Vision, OpenCV, PyTorch, Python, SAM 2`
-- **Source**: [`segment-anything-2-real-time`](https://github.com/quangkmhd/segment-anything-2-real-time)
-
 ### 📂 YOLO11 Logo Segmentation 🎯
 - An end-to-end toolkit for training, evaluating, and deploying state-of-the-art brand logo segmentation models. Built for marketing analysts, broadcast monitors, and computer vision researchers who need pixel-perfect logo identification. Detect and segment brand logos in real-time at 60 FPS with 99.4% mAP using the power of YOLO11.
 - **Tech Stack & Skills**: `Computer Vision, Docker, Gradio, Hugging Face, OpenCV, PyTorch, Python, YOLO, YOLO11`
